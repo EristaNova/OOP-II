@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "977444281754",
+    "project_id": "oop2uas",
+    "storage_bucket": "oop2uas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977444281754:android:b440b786dca7414c35ee23",
+        "android_client_info": {
+          "package_name": "com.example.oop2uas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977444281754-eqdtn22fa5ullrf9pf3mrb8g3j1kbaro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzO_dpgvfZcW-Vc5YsCmyyhCGbtDUfLZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977444281754-eqdtn22fa5ullrf9pf3mrb8g3j1kbaro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
